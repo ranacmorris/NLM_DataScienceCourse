@@ -1,0 +1,391 @@
+,geneid_x,cid,druggroup,drugaction,geneid_y,aid,acname,acvalue
+0,1956,3676,approved; vet_approved,antagonist,,,,
+1,1956,123631,approved; investigational,antagonist,1956.0,634930.0,IC50,0.02
+2,1956,123631,approved; investigational,antagonist,1956.0,638084.0,IC50,0.001
+3,1956,123631,approved; investigational,antagonist,1956.0,264807.0,IC50,0.033
+4,1956,123631,approved; investigational,antagonist,1956.0,770082.0,IC50,0.0087
+5,1956,123631,approved; investigational,antagonist,1956.0,770081.0,IC50,0.062
+6,1956,123631,approved; investigational,antagonist,1956.0,770083.0,IC50,3.3
+7,1956,123631,approved; investigational,antagonist,1956.0,1315982.0,IC50,0.013999999999999999
+8,1956,123631,approved; investigational,antagonist,3791.0,589578.0,IC50,14.8
+9,1956,176870,approved; investigational,antagonist,1956.0,638084.0,IC50,0.001
+10,1956,176870,approved; investigational,antagonist,1956.0,770082.0,IC50,0.0059
+11,1956,176870,approved; investigational,antagonist,1956.0,770081.0,IC50,0.077
+12,1956,176870,approved; investigational,antagonist,1956.0,770083.0,IC50,7.6
+13,1956,176870,approved; investigational,antagonist,1956.0,1289555.0,IC50,0.01
+14,1956,176870,approved; investigational,antagonist,1956.0,1289550.0,IC50,0.011000000000000001
+15,1956,176870,approved; investigational,antagonist,1956.0,1289554.0,IC50,9.7
+16,1956,176870,approved; investigational,antagonist,1956.0,1289546.0,IC50,9.0
+17,1956,176870,approved; investigational,antagonist,1956.0,1289551.0,IC50,0.008
+18,1956,176870,approved; investigational,antagonist,2263.0,256654.0,Kd,1.9
+19,1956,208908,approved; investigational,antagonist,1956.0,636384.0,IC50,0.009000000000000001
+20,1956,5287969,experimental; investigational,,7048.0,624909.0,Kd,5.6
+21,1956,5287969,experimental; investigational,,7048.0,435693.0,Kd,5.6
+22,1956,3081361,approved,inhibitor,1956.0,66624.0,IC50,0.2
+23,1956,3081361,approved,inhibitor,2260.0,73308.0,IC50,6.0
+24,1956,3081361,approved,inhibitor,2263.0,625131.0,Kd,1.1
+25,1956,3081361,approved,inhibitor,2263.0,1433.0,Kd,1.1
+26,1956,3081361,approved,inhibitor,2263.0,256654.0,Kd,5.5
+27,1956,3081361,approved,inhibitor,2263.0,435290.0,Kd,1.1
+28,1956,3081361,approved,inhibitor,2321.0,73628.0,IC50,0.9
+29,1956,3081361,approved,inhibitor,2321.0,261931.0,IC50,0.1
+30,1956,3081361,approved,inhibitor,2321.0,263456.0,IC50,0.1
+31,1956,3081361,approved,inhibitor,3791.0,216648.0,IC50,0.04
+32,1956,3081361,approved,inhibitor,3791.0,216649.0,IC50,0.017
+33,1956,3081361,approved,inhibitor,3791.0,216653.0,IC50,0.07
+34,1956,3081361,approved,inhibitor,3791.0,261930.0,IC50,0.022000000000000002
+35,1956,3081361,approved,inhibitor,3791.0,589575.0,IC50,0.04
+36,1956,3081361,approved,inhibitor,3791.0,589578.0,IC50,0.1
+37,1956,3081361,approved,inhibitor,3791.0,216652.0,IC50,2.673
+38,1956,3081361,approved,inhibitor,3791.0,241758.0,IC50,0.009000000000000001
+39,1956,3081361,approved,inhibitor,3791.0,263455.0,IC50,0.022000000000000002
+40,1956,3081361,approved,inhibitor,3791.0,1270933.0,IC50,0.04
+41,1956,3081361,approved,inhibitor,3791.0,1337731.0,IC50,0.015
+42,1956,156414,investigational,,1956.0,1289546.0,IC50,0.003
+43,1956,156414,investigational,,7048.0,624909.0,Kd,0.8
+44,1956,156414,investigational,,7048.0,1433.0,Kd,0.8
+45,1956,156414,investigational,,7048.0,435693.0,Kd,0.8
+46,1956,42642648,investigational,,,,,
+47,1956,46937083,experimental,,,,,
+48,1956,4708,experimental,,,,,
+49,1956,10184653,approved,inhibitor,1956.0,770082.0,IC50,0.00057
+50,1956,10184653,approved,inhibitor,1956.0,770081.0,IC50,0.012
+51,1956,10184653,approved,inhibitor,1956.0,770083.0,IC50,0.023
+52,1956,71496458,approved,inhibitor,1956.0,1167101.0,IC50,15.0
+53,1956,71496458,approved,inhibitor,1956.0,1167102.0,IC50,17.0
+54,1956,71496458,approved,inhibitor,1956.0,1289555.0,IC50,0.036000000000000004
+55,1956,71496458,approved,inhibitor,1956.0,1289550.0,IC50,0.055999999999999994
+56,1956,71496458,approved,inhibitor,1956.0,1289554.0,IC50,0.013000000000000001
+57,1956,71496458,approved,inhibitor,1956.0,1289546.0,IC50,0.015
+58,1956,71496458,approved,inhibitor,1956.0,1289551.0,IC50,0.023
+59,1956,71496458,approved,inhibitor,1956.0,1291335.0,IC50,0.015
+60,1956,71496458,approved,inhibitor,1956.0,1291336.0,IC50,0.48
+61,1956,71496458,approved,inhibitor,1956.0,1291334.0,IC50,0.017
+62,1956,71300933,investigational,antibody,,,,
+63,1956,22024915,experimental; investigational,antagonist,1956.0,683480.0,IC50,0.045
+64,1956,9915743,approved; investigational,inhibitor,,,,
+65,1956,11511120,approved; investigational,inhibitor,1956.0,770082.0,IC50,0.00063
+66,1956,11511120,approved; investigational,inhibitor,1956.0,770081.0,IC50,0.011000000000000001
+67,1956,11511120,approved; investigational,inhibitor,1956.0,770083.0,IC50,0.042
+68,1956,11511120,approved; investigational,inhibitor,1956.0,1257758.0,IC50,0.0069
+69,1956,11511120,approved; investigational,inhibitor,1956.0,1315982.0,IC50,0.006
+70,1956,11671467,approved; investigational,inhibitor,,,,
+71,1956,68165256,approved; investigational,inhibitor,,,,
+72,1956,54758501,investigational,inhibitor,,,,
+73,2260,216239,approved; investigational,inhibitor,2263.0,507946.0,Kd,2.7
+74,2260,216239,approved; investigational,inhibitor,2263.0,625131.0,Kd,2.7
+75,2260,216239,approved; investigational,inhibitor,2263.0,1433.0,Kd,2.7
+76,2260,216239,approved; investigational,inhibitor,2263.0,435290.0,Kd,2.7
+77,2260,216239,approved; investigational,inhibitor,7048.0,624909.0,Kd,6.9
+78,2260,216239,approved; investigational,inhibitor,3791.0,1122066.0,IC50,0.00106
+79,2260,216239,approved; investigational,inhibitor,3791.0,1231899.0,IC50,0.00047999999999999996
+80,2260,216239,approved; investigational,inhibitor,3791.0,1245568.0,IC50,0.09
+81,2260,216239,approved; investigational,inhibitor,3791.0,1254828.0,IC50,0.00047999999999999996
+82,2260,216239,approved; investigational,inhibitor,3791.0,1266269.0,IC50,0.0012
+83,2260,216239,approved; investigational,inhibitor,3791.0,1270934.0,IC50,0.1
+84,2260,216239,approved; investigational,inhibitor,3791.0,1271026.0,IC50,0.09
+85,2260,216239,approved; investigational,inhibitor,3791.0,1275675.0,IC50,0.01
+86,2260,216239,approved; investigational,inhibitor,3791.0,1276910.0,IC50,0.07200000000000001
+87,2260,216239,approved; investigational,inhibitor,3791.0,1287618.0,IC50,0.09
+88,2260,1633,experimental,,,,,
+89,2260,24180722,experimental,,,,,
+90,2260,11674979,experimental,,,,,
+91,2260,5289418,experimental,,3791.0,216647.0,IC50,0.02
+92,2260,5289418,experimental,,3791.0,216762.0,IC50,0.02
+93,2260,11167602,approved,inhibitor,,,,
+94,2260,24826799,approved; investigational,inhibitor,,,,
+95,2260,9823820,approved; investigational,inhibitor,,,,
+96,2260,9809715,approved,inhibitor,,,,
+97,2260,11671467,approved; investigational,inhibitor,,,,
+98,2260,67462786,approved; investigational,inhibitor,2263.0,1340071.0,IC50,0.0044670000000000005
+99,2263,5426,approved; investigational; withdrawn,antagonist,,,,
+100,2263,444237,experimental,ligand,,,,
+101,2263,1633,experimental,,,,,
+102,2263,447622,experimental,,,,,
+103,2263,11167602,approved,inhibitor,,,,
+104,2263,24826799,approved; investigational,inhibitor,,,,
+105,2263,9823820,approved; investigational,inhibitor,,,,
+106,2263,9809715,approved,inhibitor,,,,
+107,2263,11671467,approved; investigational,inhibitor,,,,
+108,2263,67462786,approved; investigational,inhibitor,2263.0,1340071.0,IC50,0.0044670000000000005
+109,2261,10113978,approved,inhibitor,2263.0,625131.0,Kd,0.21
+110,2261,10113978,approved,inhibitor,2263.0,1433.0,Kd,0.21
+111,2261,10113978,approved,inhibitor,2263.0,435290.0,Kd,0.21
+112,2261,10113978,approved,inhibitor,7048.0,624909.0,Kd,3.0
+113,2261,10113978,approved,inhibitor,3791.0,1069705.0,IC50,0.03
+114,2261,24826799,approved; investigational,inhibitor,,,,
+115,2261,9823820,approved; investigational,inhibitor,,,,
+116,2261,9809715,approved,inhibitor,,,,
+117,2261,11671467,approved; investigational,inhibitor,,,,
+118,2261,67462786,approved; investigational,inhibitor,2263.0,1340071.0,IC50,0.0044670000000000005
+119,2264,24826799,approved; investigational,inhibitor,,,,
+120,2264,9823820,approved; investigational,inhibitor,,,,
+121,2264,67462786,approved; investigational,inhibitor,2263.0,1340071.0,IC50,0.0044670000000000005
+122,3480,44462678,experimental,,,,,
+123,3480,24808489,experimental,,,,,
+124,3480,22021390,experimental,,,,,
+125,3480,68165256,approved; investigational,inhibitor,,,,
+126,3482,447096,experimental,,3482.0,318562.0,IC50,11.5
+127,5156,5291,approved,antagonist,,,,
+128,5156,5329102,approved; investigational,inhibitor,2263.0,507946.0,Kd,0.57
+129,5156,5329102,approved; investigational,inhibitor,2263.0,625131.0,Kd,0.57
+130,5156,5329102,approved; investigational,inhibitor,2263.0,1433.0,Kd,0.57
+131,5156,5329102,approved; investigational,inhibitor,2263.0,256654.0,Kd,0.53
+132,5156,5329102,approved; investigational,inhibitor,2263.0,383305.0,Kd,0.53
+133,5156,5329102,approved; investigational,inhibitor,2263.0,435290.0,Kd,0.57
+134,5156,5329102,approved; investigational,inhibitor,3791.0,216911.0,IC50,0.08
+135,5156,5329102,approved; investigational,inhibitor,3791.0,1271026.0,IC50,0.08
+136,5156,5329102,approved; investigational,inhibitor,3791.0,1276910.0,IC50,0.018000000000000002
+137,5156,10113978,approved,inhibitor,2263.0,625131.0,Kd,0.21
+138,5156,10113978,approved,inhibitor,2263.0,1433.0,Kd,0.21
+139,5156,10113978,approved,inhibitor,2263.0,435290.0,Kd,0.21
+140,5156,10113978,approved,inhibitor,7048.0,624909.0,Kd,3.0
+141,5156,10113978,approved,inhibitor,3791.0,1069705.0,IC50,0.03
+142,5156,9829523,approved; investigational,antagonist; inhibitor,2263.0,625131.0,Kd,2.4
+143,5156,9829523,approved; investigational,antagonist; inhibitor,2263.0,507946.0,Kd,2.4
+144,5156,9829523,approved; investigational,antagonist; inhibitor,2263.0,435290.0,Kd,2.4
+145,5156,11167602,approved,inhibitor,,,,
+146,5156,24826799,approved; investigational,inhibitor,,,,
+147,5156,11671467,approved; investigational,inhibitor,,,,
+148,5156,67462786,approved; investigational,substrate,2263.0,1340071.0,IC50,0.0044670000000000005
+149,5156,11282283,investigational,,,,,
+150,5159,216239,approved; investigational,antagonist,2263.0,507946.0,Kd,2.7
+151,5159,216239,approved; investigational,antagonist,2263.0,625131.0,Kd,2.7
+152,5159,216239,approved; investigational,antagonist,2263.0,1433.0,Kd,2.7
+153,5159,216239,approved; investigational,antagonist,2263.0,435290.0,Kd,2.7
+154,5159,216239,approved; investigational,antagonist,7048.0,624909.0,Kd,6.9
+155,5159,216239,approved; investigational,antagonist,3791.0,1122066.0,IC50,0.00106
+156,5159,216239,approved; investigational,antagonist,3791.0,1231899.0,IC50,0.00047999999999999996
+157,5159,216239,approved; investigational,antagonist,3791.0,1245568.0,IC50,0.09
+158,5159,216239,approved; investigational,antagonist,3791.0,1254828.0,IC50,0.00047999999999999996
+159,5159,216239,approved; investigational,antagonist,3791.0,1266269.0,IC50,0.0012
+160,5159,216239,approved; investigational,antagonist,3791.0,1270934.0,IC50,0.1
+161,5159,216239,approved; investigational,antagonist,3791.0,1271026.0,IC50,0.09
+162,5159,216239,approved; investigational,antagonist,3791.0,1275675.0,IC50,0.01
+163,5159,216239,approved; investigational,antagonist,3791.0,1276910.0,IC50,0.07200000000000001
+164,5159,216239,approved; investigational,antagonist,3791.0,1287618.0,IC50,0.09
+165,5159,5291,approved,antagonist,,,,
+166,5159,3062316,approved; investigational,antagonist,2263.0,625131.0,Kd,1.4
+167,5159,3062316,approved; investigational,antagonist,2263.0,1433.0,Kd,1.4
+168,5159,3062316,approved; investigational,antagonist,2263.0,435290.0,Kd,1.4
+169,5159,3062316,approved; investigational,antagonist,7048.0,624909.0,Kd,2.9
+170,5159,3062316,approved; investigational,antagonist,7048.0,1433.0,Kd,2.9
+171,5159,3062316,approved; investigational,antagonist,7048.0,435693.0,Kd,2.9
+172,5159,5329102,approved; investigational,inhibitor,2263.0,507946.0,Kd,0.57
+173,5159,5329102,approved; investigational,inhibitor,2263.0,625131.0,Kd,0.57
+174,5159,5329102,approved; investigational,inhibitor,2263.0,1433.0,Kd,0.57
+175,5159,5329102,approved; investigational,inhibitor,2263.0,256654.0,Kd,0.53
+176,5159,5329102,approved; investigational,inhibitor,2263.0,383305.0,Kd,0.53
+177,5159,5329102,approved; investigational,inhibitor,2263.0,435290.0,Kd,0.57
+178,5159,5329102,approved; investigational,inhibitor,3791.0,216911.0,IC50,0.08
+179,5159,5329102,approved; investigational,inhibitor,3791.0,1271026.0,IC50,0.08
+180,5159,5329102,approved; investigational,inhibitor,3791.0,1276910.0,IC50,0.018000000000000002
+181,5159,10113978,approved,inhibitor,2263.0,625131.0,Kd,0.21
+182,5159,10113978,approved,inhibitor,2263.0,1433.0,Kd,0.21
+183,5159,10113978,approved,inhibitor,2263.0,435290.0,Kd,0.21
+184,5159,10113978,approved,inhibitor,7048.0,624909.0,Kd,3.0
+185,5159,10113978,approved,inhibitor,3791.0,1069705.0,IC50,0.03
+186,5159,9829523,approved; investigational,antagonist; inhibitor,2263.0,625131.0,Kd,2.4
+187,5159,9829523,approved; investigational,antagonist; inhibitor,2263.0,507946.0,Kd,2.4
+188,5159,9829523,approved; investigational,antagonist; inhibitor,2263.0,435290.0,Kd,2.4
+189,5159,11167602,approved,inhibitor,,,,
+190,5159,6918055,experimental,agonist,,,,
+191,5159,11671467,approved; investigational,inhibitor,,,,
+192,5159,67462786,approved; investigational,substrate,2263.0,1340071.0,IC50,0.0044670000000000005
+193,7046,447966,experimental,,7046.0,447434.0,IC50,0.051
+194,7046,447966,experimental,,7048.0,261604.0,IC50,0.4
+195,7046,5287512,experimental,,,,,
+196,7046,5287525,experimental,,7046.0,447434.0,IC50,1.32
+197,7046,25138294,experimental,,,,,
+198,7046,10267580,experimental,,,,,
+199,7046,9998128,experimental,,,,,
+200,7046,11671467,approved; investigational,inhibitor,,,,
+201,7048,753,approved; investigational,,,,,
+202,7048,11671467,approved; investigational,inhibitor,,,,
+203,2321,216239,approved; investigational,inhibitor,2263.0,507946.0,Kd,2.7
+204,2321,216239,approved; investigational,inhibitor,2263.0,625131.0,Kd,2.7
+205,2321,216239,approved; investigational,inhibitor,2263.0,1433.0,Kd,2.7
+206,2321,216239,approved; investigational,inhibitor,2263.0,435290.0,Kd,2.7
+207,2321,216239,approved; investigational,inhibitor,7048.0,624909.0,Kd,6.9
+208,2321,216239,approved; investigational,inhibitor,3791.0,1122066.0,IC50,0.00106
+209,2321,216239,approved; investigational,inhibitor,3791.0,1231899.0,IC50,0.00047999999999999996
+210,2321,216239,approved; investigational,inhibitor,3791.0,1245568.0,IC50,0.09
+211,2321,216239,approved; investigational,inhibitor,3791.0,1254828.0,IC50,0.00047999999999999996
+212,2321,216239,approved; investigational,inhibitor,3791.0,1266269.0,IC50,0.0012
+213,2321,216239,approved; investigational,inhibitor,3791.0,1270934.0,IC50,0.1
+214,2321,216239,approved; investigational,inhibitor,3791.0,1271026.0,IC50,0.09
+215,2321,216239,approved; investigational,inhibitor,3791.0,1275675.0,IC50,0.01
+216,2321,216239,approved; investigational,inhibitor,3791.0,1276910.0,IC50,0.07200000000000001
+217,2321,216239,approved; investigational,inhibitor,3791.0,1287618.0,IC50,0.09
+218,2321,5329102,approved; investigational,inhibitor,2263.0,507946.0,Kd,0.57
+219,2321,5329102,approved; investigational,inhibitor,2263.0,625131.0,Kd,0.57
+220,2321,5329102,approved; investigational,inhibitor,2263.0,1433.0,Kd,0.57
+221,2321,5329102,approved; investigational,inhibitor,2263.0,256654.0,Kd,0.53
+222,2321,5329102,approved; investigational,inhibitor,2263.0,383305.0,Kd,0.53
+223,2321,5329102,approved; investigational,inhibitor,2263.0,435290.0,Kd,0.57
+224,2321,5329102,approved; investigational,inhibitor,3791.0,216911.0,IC50,0.08
+225,2321,5329102,approved; investigational,inhibitor,3791.0,1271026.0,IC50,0.08
+226,2321,5329102,approved; investigational,inhibitor,3791.0,1276910.0,IC50,0.018000000000000002
+227,2321,151194,investigational,,2321.0,261931.0,IC50,0.14
+228,2321,151194,investigational,,2321.0,263456.0,IC50,0.14
+229,2321,151194,investigational,,2321.0,392542.0,IC50,0.14
+230,2321,151194,investigational,,3791.0,261930.0,IC50,0.054000000000000006
+231,2321,151194,investigational,,3791.0,216904.0,IC50,0.037000000000000005
+232,2321,151194,investigational,,3791.0,241758.0,IC50,0.16
+233,2321,151194,investigational,,3791.0,263455.0,IC50,0.054000000000000006
+234,2321,151194,investigational,,3791.0,392541.0,IC50,0.054000000000000006
+235,2321,151194,investigational,,3791.0,417885.0,IC50,0.054000000000000006
+236,2321,151194,investigational,,3791.0,1270934.0,IC50,0.18
+237,2321,151194,investigational,,3791.0,1271026.0,IC50,0.043
+238,2321,151194,investigational,,3791.0,1287676.0,IC50,0.043
+239,2321,11973736,investigational,,,,,
+240,2321,9868037,investigational,,,,,
+241,2321,10113978,approved,inhibitor,2263.0,625131.0,Kd,0.21
+242,2321,10113978,approved,inhibitor,2263.0,1433.0,Kd,0.21
+243,2321,10113978,approved,inhibitor,2263.0,435290.0,Kd,0.21
+244,2321,10113978,approved,inhibitor,7048.0,624909.0,Kd,3.0
+245,2321,10113978,approved,inhibitor,3791.0,1069705.0,IC50,0.03
+246,2321,6450551,approved; investigational,inhibitor,2263.0,625131.0,Kd,0.11
+247,2321,9797919,experimental,,3791.0,216904.0,IC50,0.02
+248,2321,11167602,approved,inhibitor,,,,
+249,2321,9823820,approved; investigational,inhibitor,,,,
+250,2321,9809715,approved,inhibitor,,,,
+251,2321,6918055,experimental,agonist,,,,
+252,2321,11671467,approved; investigational,inhibitor,,,,
+253,3791,216239,approved; investigational,antagonist,2263.0,507946.0,Kd,2.7
+254,3791,216239,approved; investigational,antagonist,2263.0,625131.0,Kd,2.7
+255,3791,216239,approved; investigational,antagonist,2263.0,1433.0,Kd,2.7
+256,3791,216239,approved; investigational,antagonist,2263.0,435290.0,Kd,2.7
+257,3791,216239,approved; investigational,antagonist,7048.0,624909.0,Kd,6.9
+258,3791,216239,approved; investigational,antagonist,3791.0,1122066.0,IC50,0.00106
+259,3791,216239,approved; investigational,antagonist,3791.0,1231899.0,IC50,0.00047999999999999996
+260,3791,216239,approved; investigational,antagonist,3791.0,1245568.0,IC50,0.09
+261,3791,216239,approved; investigational,antagonist,3791.0,1254828.0,IC50,0.00047999999999999996
+262,3791,216239,approved; investigational,antagonist,3791.0,1266269.0,IC50,0.0012
+263,3791,216239,approved; investigational,antagonist,3791.0,1270934.0,IC50,0.1
+264,3791,216239,approved; investigational,antagonist,3791.0,1271026.0,IC50,0.09
+265,3791,216239,approved; investigational,antagonist,3791.0,1275675.0,IC50,0.01
+266,3791,216239,approved; investigational,antagonist,3791.0,1276910.0,IC50,0.07200000000000001
+267,3791,216239,approved; investigational,antagonist,3791.0,1287618.0,IC50,0.09
+268,3791,5329102,approved; investigational,inhibitor,2263.0,507946.0,Kd,0.57
+269,3791,5329102,approved; investigational,inhibitor,2263.0,625131.0,Kd,0.57
+270,3791,5329102,approved; investigational,inhibitor,2263.0,1433.0,Kd,0.57
+271,3791,5329102,approved; investigational,inhibitor,2263.0,256654.0,Kd,0.53
+272,3791,5329102,approved; investigational,inhibitor,2263.0,383305.0,Kd,0.53
+273,3791,5329102,approved; investigational,inhibitor,2263.0,435290.0,Kd,0.57
+274,3791,5329102,approved; investigational,inhibitor,3791.0,216911.0,IC50,0.08
+275,3791,5329102,approved; investigational,inhibitor,3791.0,1271026.0,IC50,0.08
+276,3791,5329102,approved; investigational,inhibitor,3791.0,1276910.0,IC50,0.018000000000000002
+277,3791,5326956,experimental,,3791.0,241759.0,IC50,0.003
+278,3791,9933475,investigational,,2263.0,625131.0,Kd,0.035
+279,3791,9933475,investigational,,3791.0,1263994.0,IC50,0.0027
+280,3791,151194,investigational,,2321.0,261931.0,IC50,0.14
+281,3791,151194,investigational,,2321.0,263456.0,IC50,0.14
+282,3791,151194,investigational,,2321.0,392542.0,IC50,0.14
+283,3791,151194,investigational,,3791.0,261930.0,IC50,0.054000000000000006
+284,3791,151194,investigational,,3791.0,216904.0,IC50,0.037000000000000005
+285,3791,151194,investigational,,3791.0,241758.0,IC50,0.16
+286,3791,151194,investigational,,3791.0,263455.0,IC50,0.054000000000000006
+287,3791,151194,investigational,,3791.0,392541.0,IC50,0.054000000000000006
+288,3791,151194,investigational,,3791.0,417885.0,IC50,0.054000000000000006
+289,3791,151194,investigational,,3791.0,1270934.0,IC50,0.18
+290,3791,151194,investigational,,3791.0,1271026.0,IC50,0.043
+291,3791,151194,investigational,,3791.0,1287676.0,IC50,0.043
+292,3791,11973736,investigational,,,,,
+293,3791,5329098,investigational,,2263.0,735314.0,IC50,5.0
+294,3791,5329098,investigational,,3791.0,216648.0,IC50,1.3
+295,3791,5329098,investigational,,3791.0,216649.0,IC50,0.22
+296,3791,5329098,investigational,,3791.0,216647.0,IC50,0.7
+297,3791,5329098,investigational,,3791.0,216652.0,IC50,0.884
+298,3791,5329098,investigational,,3791.0,216762.0,IC50,0.7
+299,3791,5329098,investigational,,3791.0,216766.0,IC50,0.2
+300,3791,5329098,investigational,,3791.0,216911.0,IC50,1.23
+301,3791,5329098,investigational,,3791.0,217170.0,EC50,0.93
+302,3791,10113978,approved,inhibitor,2263.0,625131.0,Kd,0.21
+303,3791,10113978,approved,inhibitor,2263.0,1433.0,Kd,0.21
+304,3791,10113978,approved,inhibitor,2263.0,435290.0,Kd,0.21
+305,3791,10113978,approved,inhibitor,7048.0,624909.0,Kd,3.0
+306,3791,10113978,approved,inhibitor,3791.0,1069705.0,IC50,0.03
+307,3791,9829523,approved; investigational,antagonist; inhibitor,2263.0,625131.0,Kd,2.4
+308,3791,9829523,approved; investigational,antagonist; inhibitor,2263.0,507946.0,Kd,2.4
+309,3791,9829523,approved; investigational,antagonist; inhibitor,2263.0,435290.0,Kd,2.4
+310,3791,6450551,approved; investigational,inhibitor,2263.0,625131.0,Kd,0.11
+311,3791,11167118,experimental,,,,,
+312,3791,16040289,experimental,,,,,
+313,3791,11441375,experimental,,,,,
+314,3791,23658582,experimental,,,,,
+315,3791,4369498,experimental,,,,,
+316,3791,4369497,experimental,,3791.0,241758.0,IC50,0.022000000000000002
+317,3791,4369497,experimental,,3791.0,244229.0,Selectivity,0.022000000000000002
+318,3791,24812717,experimental,,,,,
+319,3791,24812719,experimental,,,,,
+320,3791,24812718,experimental,,,,,
+321,3791,24941243,experimental,,,,,
+322,3791,9822610,experimental,,,,,
+323,3791,25102847,approved; investigational,antagonist,3791.0,1235512.0,INH,0.006999999999999999
+324,3791,25102847,approved; investigational,antagonist,3791.0,1276889.0,IC50,3.5e-05
+325,3791,25102847,approved; investigational,antagonist,3791.0,1276894.0,IC50,7.8
+326,3791,11167602,approved,inhibitor,,,,
+327,3791,24826799,approved; investigational,inhibitor,,,,
+328,3791,9823820,approved; investigational,inhibitor,,,,
+329,3791,9809715,approved,inhibitor,,,,
+330,3791,11671467,approved; investigational,inhibitor,,,,
+331,3791,67462786,approved; investigational,substrate,2263.0,1340071.0,IC50,0.0044670000000000005
+332,3791,42642645,investigational,,2263.0,625131.0,Kd,0.8
+333,3791,42642645,investigational,,5156.0,1318748.0,IC50,0.0036
+334,3791,42642645,investigational,,5156.0,1330830.0,IC50,0.0036
+335,3791,42642645,investigational,,5159.0,1318749.0,IC50,0.0096
+336,3791,42642645,investigational,,5159.0,1330831.0,IC50,0.0096
+337,3791,42642645,investigational,,3791.0,1235501.0,IC50,0.00486
+338,3791,42642645,investigational,,3791.0,1235512.0,INH,0.0008
+339,3791,42642645,investigational,,3791.0,1276899.0,IC50,0.0009
+340,3791,42642645,investigational,,3791.0,1304955.0,IC50,0.0009
+341,3791,42642645,investigational,,3791.0,1318774.0,IC50,0.00086
+342,3791,42642645,investigational,,3791.0,1330826.0,IC50,0.00086
+343,2324,216239,approved; investigational,antagonist,2263.0,507946.0,Kd,2.7
+344,2324,216239,approved; investigational,antagonist,2263.0,625131.0,Kd,2.7
+345,2324,216239,approved; investigational,antagonist,2263.0,1433.0,Kd,2.7
+346,2324,216239,approved; investigational,antagonist,2263.0,435290.0,Kd,2.7
+347,2324,216239,approved; investigational,antagonist,7048.0,624909.0,Kd,6.9
+348,2324,216239,approved; investigational,antagonist,3791.0,1122066.0,IC50,0.00106
+349,2324,216239,approved; investigational,antagonist,3791.0,1231899.0,IC50,0.00047999999999999996
+350,2324,216239,approved; investigational,antagonist,3791.0,1245568.0,IC50,0.09
+351,2324,216239,approved; investigational,antagonist,3791.0,1254828.0,IC50,0.00047999999999999996
+352,2324,216239,approved; investigational,antagonist,3791.0,1266269.0,IC50,0.0012
+353,2324,216239,approved; investigational,antagonist,3791.0,1270934.0,IC50,0.1
+354,2324,216239,approved; investigational,antagonist,3791.0,1271026.0,IC50,0.09
+355,2324,216239,approved; investigational,antagonist,3791.0,1275675.0,IC50,0.01
+356,2324,216239,approved; investigational,antagonist,3791.0,1276910.0,IC50,0.07200000000000001
+357,2324,216239,approved; investigational,antagonist,3791.0,1287618.0,IC50,0.09
+358,2324,5329102,approved; investigational,inhibitor,2263.0,507946.0,Kd,0.57
+359,2324,5329102,approved; investigational,inhibitor,2263.0,625131.0,Kd,0.57
+360,2324,5329102,approved; investigational,inhibitor,2263.0,1433.0,Kd,0.57
+361,2324,5329102,approved; investigational,inhibitor,2263.0,256654.0,Kd,0.53
+362,2324,5329102,approved; investigational,inhibitor,2263.0,383305.0,Kd,0.53
+363,2324,5329102,approved; investigational,inhibitor,2263.0,435290.0,Kd,0.57
+364,2324,5329102,approved; investigational,inhibitor,3791.0,216911.0,IC50,0.08
+365,2324,5329102,approved; investigational,inhibitor,3791.0,1271026.0,IC50,0.08
+366,2324,5329102,approved; investigational,inhibitor,3791.0,1276910.0,IC50,0.018000000000000002
+367,2324,151194,investigational,,2321.0,261931.0,IC50,0.14
+368,2324,151194,investigational,,2321.0,263456.0,IC50,0.14
+369,2324,151194,investigational,,2321.0,392542.0,IC50,0.14
+370,2324,151194,investigational,,3791.0,261930.0,IC50,0.054000000000000006
+371,2324,151194,investigational,,3791.0,216904.0,IC50,0.037000000000000005
+372,2324,151194,investigational,,3791.0,241758.0,IC50,0.16
+373,2324,151194,investigational,,3791.0,263455.0,IC50,0.054000000000000006
+374,2324,151194,investigational,,3791.0,392541.0,IC50,0.054000000000000006
+375,2324,151194,investigational,,3791.0,417885.0,IC50,0.054000000000000006
+376,2324,151194,investigational,,3791.0,1270934.0,IC50,0.18
+377,2324,151194,investigational,,3791.0,1271026.0,IC50,0.043
+378,2324,151194,investigational,,3791.0,1287676.0,IC50,0.043
+379,2324,11973736,investigational,,,,,
+380,2324,10113978,approved,,2263.0,625131.0,Kd,0.21
+381,2324,10113978,approved,,2263.0,1433.0,Kd,0.21
+382,2324,10113978,approved,,2263.0,435290.0,Kd,0.21
+383,2324,10113978,approved,,7048.0,624909.0,Kd,3.0
+384,2324,10113978,approved,,3791.0,1069705.0,IC50,0.03
+385,2324,6450551,approved; investigational,inhibitor,2263.0,625131.0,Kd,0.11
+386,2324,11167602,approved,inhibitor,,,,
+387,2324,9823820,approved; investigational,inhibitor,,,,
+388,2324,9809715,approved,inhibitor,,,,
+389,2324,11671467,approved; investigational,inhibitor,,,,

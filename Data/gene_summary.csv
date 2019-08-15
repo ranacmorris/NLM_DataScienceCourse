@@ -1,0 +1,15 @@
+﻿geneid,human gene symbol - name,number of assertions/measurements reported,number of tested compounds with activity designation and kinetic data,number of tested compounds w/ IC50 or Kd <0.01 uM,number of lead compounds,IC50 or Kd threshold (uM),number of proposed drug candidates
+1956,EGFR - epidermal growth factor receptor,23503,919,69,16,0.003,5
+2260,FGFR1 - fibroblast growth factor receptor 1,7557,249,76,16,0.0015,5
+2263,FGFR2 - fibroblast growth factor receptor 2,2960,1359,546,16,0.00045,5
+2261,FGFR3 - fibroblast growth factor receptor 3,5890,206,53,15,0.003,5
+2264,FGFR4 - fibroblast growth factor receptor 4,2560,42,1,11,2,5
+3480,IGF1R - insulin like growth factor 1 receptor,8334,1381,8,8,0.01,5
+3482,IGF2R - insulin like growth factor 2 receptor,20,12,0,7,6,5
+5156,PDGFRA - platelet derived growth factor receptor alpha,5314,82,14,14,0.01,5
+5159,PDGFRB - platelet derived growth factor receptor beta,4595,159,12,12,0.01,5
+7046,TGFBR1 - transforming growth factor beta receptor 1,2533,202,3,10,0.02,5
+7048,TGFBR2 - transforming growth factor beta receptor 2,213,200,1,14,0.4,5
+2321,(VEGFR1) FLT1 - fms related tyrosine kinase 1,5933,322,31,14,0.006,5
+3791,(VEGFR2) KDR - kinase insert domain receptor,17740,2199,348,16,0.00045,5
+2324,(VEGFR3) FLT4 - fms related tyrosine kinase 4,3088,34,0,8,0.16,5
